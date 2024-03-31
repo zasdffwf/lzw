@@ -1,0 +1,5 @@
+#忽略text文件夹
+text/
+
+#忽略本目录下的index.html文件
+/index.html
